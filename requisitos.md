@@ -11,7 +11,9 @@ Aqui nós vamos determinar os requisitos do projeto.
  2. Quais as ações possíveis para prestadores de serviços?
  
   *cadastrar
+  
   *fazer login
+  
   *aceitar ou recusar solicitações de serviços
   *informar, confirmar ou cancelar inicio de serviço
   *classificar cliente 
