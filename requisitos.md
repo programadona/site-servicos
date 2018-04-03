@@ -15,9 +15,16 @@ Aqui nós vamos determinar os requisitos do projeto.
   *fazer login
   
   *aceitar ou recusar solicitações de serviços
+  
   *informar, confirmar ou cancelar inicio de serviço
+  
   *classificar cliente 
+  
   *emitir relatório de serviços realizados 
+  
   *receber pagamento
   
   
+
+
+<b>Obs: Aos colaboradores do projeto podem incluir novas questões, responder questões, complementar respostas.</b>
